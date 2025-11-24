@@ -77,11 +77,3 @@ This section has been removed as Tailscale installation is not functioning corre
 ✔ Disable EFI for installation  
 ✔ Server Core boots into SConfig — this is normal  
 ✔ Use `C:\Windows\System32\curl.exe` for network tests  
-
----
-
-If you'd like, this guide can be expanded with:
-- Domain controller setup
-- Networking additions
-- WinRM remote management
-- Automation scripts
